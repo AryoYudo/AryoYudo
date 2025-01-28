@@ -1,9 +1,9 @@
 
-Hi, I'm AryoYudo 👋
+## Hi, I'm AryoYudo 👋
 
 Welcome to my GitHub profile! I'm passionate about coding and continuously learning new technologies. Here's a little about me:
 
-🌍 Who am I?
+## 🌍 Who am I?
 
 I'm AryoYudo, a web development enthusiast with a strong passion for solving complex problems.
 
@@ -13,7 +13,7 @@ I'm AryoYudo, a web development enthusiast with a strong passion for solving com
 - 📫 **How to reach me**: You can follow me on Linkedin [@AryoYudhoWicaksono](https://www.linkedin.com/in/aryoyudho/).
 - ⚡ **Fun fact**: I love solving complex problems and learning new things in my spare time!
 
-## 🛠 Tech Stack
+## 🛠 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
