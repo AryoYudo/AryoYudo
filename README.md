@@ -27,11 +27,8 @@ I'm AryoYudo, a web development enthusiast with a strong passion for solving com
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-009688?style=flat&logo=django&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) 
 ![Object-Oriented Programming](https://img.shields.io/badge/OOP-50A2D3?style=flat&logoColor=white)
 
 Thanks for visiting! 🚀
