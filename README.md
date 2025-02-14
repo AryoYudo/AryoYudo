@@ -1,11 +1,11 @@
 
-## Hi, I'm AryoYudo 👋
+## Hi, I'm Aryo Yudho 👋
 
 Welcome to my GitHub profile! I'm passionate about coding and continuously learning new technologies. Here's a little about me:
 
 ## 🌍 Who am I?
 
-I'm AryoYudo, a web development enthusiast with a strong passion for solving complex problems.
+I'm Aryo Yudho, a web development enthusiast with a strong passion for solving complex problems.
 
 - 👀 **I'm interested in**: Web Development.
 - 🌱 ** I’m currently understanding**: Python, PHP, JavaScript, Laravel, Django and React.Js.
